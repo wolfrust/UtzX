@@ -27,4 +27,4 @@ hash_compare.js ---> The js file, feel free to examine it and do whatever you wa
 
 ----
 
-Enjoy using it.. It just saved you a hell lotta time. ;)
+
