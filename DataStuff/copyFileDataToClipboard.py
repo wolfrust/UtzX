@@ -6,7 +6,7 @@ from sys import exit as bye
 if len(argv) == 1 or argv[1] == '--help' or argv[1] == '-h' or argv[1] == 'help':
     print("""
 
-    copyFileDataToClipboard by Mateo Cruz
+    copyFileDataToClipboard by wolfrust
 
     Format: copyFileDataToClipboard.py <<file>>
     Eg: copyFileDataToClipboard.py egg.txt
