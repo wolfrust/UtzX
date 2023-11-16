@@ -11,7 +11,7 @@ if argv[1] in helpArgs:
 
 	helpText = """
 
-	* Utils/toExt by Mateo Cruz *
+	* Utils/toExt by wolfrust*
 
 		
 	Format :  toExt.py <<originalExtension>> <<newExtension>> <<folder>>
