@@ -2,7 +2,7 @@ from sys import argv #module to read arguments
 from sys import exit as leave #cuz exit() is a python function
 
 help = """
-LCM Calculator (by Mateo Cruz)
+LCM Calculator by wolfrust
 
 Usage: LCM.py number1 number2 ....
 Example: LCM.py 2 3.5 [output = 14.0]
